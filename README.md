@@ -1,9 +1,24 @@
 # Predictive Churn Analysis — Data Science Portfolio
 
 > **Data Science Portfolio Project** · Logistic Regression · 81.4% Accuracy · AUC 0.881
+> **Status:** Finished · Deployed to production (2026-04)
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-%E2%86%92%20Open%20Dashboard-a78bfa?style=for-the-badge&logo=firebase&logoColor=white)](https://proyectos-personales.web.app/churn)
 [![Portfolio](https://img.shields.io/badge/Portfolio-proyectos--personales.web.app-60a5fa?style=for-the-badge)](https://proyectos-personales.web.app)
+
+---
+
+## Project Status
+
+| Phase | Status |
+|---|---|
+| Data generation (synthetic dataset) | Done |
+| Model training & tuning | Done |
+| Evaluation (AUC 0.881, 81.4% accuracy) | Done |
+| Business findings writeup | Done |
+| React dashboard deployment | Done |
+
+**Current phase:** maintenance — model live on portfolio.
 
 ---
 
@@ -107,4 +122,12 @@ project-churn-analysis/
 
 ---
 
-*Built by [Guillermo Ubeda](https://github.com/Guillermo1987) · Data & BI Analyst · [LinkedIn](https://linkedin.com/in/guillermo-ubeda-garay)*
+## Links
+
+- **Portfolio:** [proyectos-personales.web.app](https://proyectos-personales.web.app)
+- **LinkedIn:** [Guillermo Ubeda Garay](https://www.linkedin.com/in/guillermo-alejandro-%C3%BA-027a3a120/?locale=en_US)
+- **Email:** guille.ubeda.garay@gmail.com
+
+---
+
+*Built by [Guillermo Ubeda](https://github.com/Guillermo1987) · Data & BI Analyst · MBA · ISC2 CC*
